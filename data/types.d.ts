@@ -1,0 +1,24 @@
+type Sound = {
+  Symbol: string;
+  Name: string;
+  Type: string;
+  Keyman: string;
+  syl: boolean | string;
+  son: boolean | string;
+  cons: boolean | string;
+  cont: boolean | string;
+  "del.rel": boolean | string;
+  nas: boolean | string;
+  lat: boolean | string;
+  "s.g.": boolean | string;
+  "c.g.": boolean | string;
+  voi: boolean | string;
+  cor: boolean | string;
+  ant: boolean | string;
+  distr: boolean | string;
+  high: boolean | string;
+  low: boolean | string;
+  back: boolean | string;
+  round: boolean | string;
+  tense: boolean | string;
+};

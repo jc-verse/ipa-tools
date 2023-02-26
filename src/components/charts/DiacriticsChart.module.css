@@ -1,0 +1,24 @@
+.diacritics td:nth-child(3n + 1) {
+  border-right: 0;
+}
+
+.diacritics td:nth-child(3n + 2) {
+  padding-left: 0.5em;
+  padding-right: 1em;
+  border-left: 0;
+  border-right: 0;
+}
+
+.diacritics td:nth-child(3n) {
+  border-left: 0;
+  padding-right: 1em;
+}
+
+.example {
+  display: inline-block;
+  width: 1em;
+}
+
+.diacritics p {
+  text-align: center;
+}

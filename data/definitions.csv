@@ -1,0 +1,21 @@
+Name,Abbr,Description,Consists of
+Syllabic,syl,forms a syllable peak (and thus can be stressed).,vowels
+Sonorant,son,sounds produced with a vocal tract configuration in which spontaneous voicing is possible.,vowels + nasals + glides + liquids
+Consonantal,cons,sounds produced with a major obstruction in the oral cavity.,obstruents + nasals + liquids - laryngeals ([h] + [ʔ])
+Continuant,cont,the primary constriction is not narrowed so much that airflow through the oral cavity is blocked.,vowels + glides + fricatives
+Delayed release,del.rel,release of a total constriction is slowed so that a fricative is formed after the stop portion.,affricates
+Nasal,nas,the velum is lowered which allows air to escape through the nose.,nasals
+Lateral,lat,the mid section of the tongue is lowered at the side.,laterals
+Spread glottis,s.g.,the vocal folds are spread far apart.,aspirated obstruents + breathy sonorants
+Constricted glottis,c.g.,the vocal folds are tightly constricted.,implosives + ejectives + laryngealized sonorants
+Voice,voi,the vocal folds vibrate.,voiced (- ejectives + implosives)
+Coronal,cor,produced with the blade or tip of the tongue raised from the neutral position.,dentals + alveolars + palatals + retroflexes
+Anterior,ant,produced with a major constriction located at or in front of the alveolar ridge.,labials + labiodentals + dentals + alveolars ([s] vs. [ʃ])
+Strident,strident,produced with greater noisiness.,labials vs. labiodentals; dentals vs. alveolars
+Distributed,distr,produced with a constriction that extends for a considerable distance along the direction of airflow.,blade ("laminal") vs. tip ("apical") ⊆ coronal; dentals
+High,high,the body of the tongue is raised from the neutral position.,high vowels + palatals + velars
+Low,low,the body of the tongue is lowered from the neutral position.,low vowels + pharyngeals
+Back,back,the body of the tongue is retracted from the neutral position.,central vowels + back vowels + velars + uvulars + pharyngeals
+Round,round,the lips are protruded.,
+Tense,tense,"sounds requiring deliberate, accurate, maximally distinct gestures that involve considerable muscular effort.",
+Advanced tongue root,ATR,produced by drawing the root of the tongue forward.,

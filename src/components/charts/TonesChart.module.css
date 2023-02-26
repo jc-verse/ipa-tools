@@ -1,0 +1,11 @@
+.tones * {
+  border: 0 !important;
+}
+
+.tones caption {
+  text-align: center;
+}
+
+.tones th {
+  text-transform: uppercase;
+}

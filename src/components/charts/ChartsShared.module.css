@@ -1,0 +1,32 @@
+.borderedTable {
+  border-collapse: collapse;
+  border: 2px solid black;
+}
+
+.borderedTable thead {
+  border-bottom: 2px solid black;
+}
+
+.table :is(th, td) {
+  text-align: left;
+}
+
+.borderedTable :is(th, td) {
+  border: 1px solid gray;
+}
+
+.table th {
+  font-weight: normal;
+  padding: 0.3em 0.1em;
+}
+
+.table thead th {
+  text-align: center;
+}
+
+.table caption {
+  text-align: left;
+  padding: 0.5em;
+  text-transform: uppercase;
+  font-size: large;
+}

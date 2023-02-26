@@ -1,0 +1,178 @@
+Symbol,Name,Type,Keyman,syl,son,cons,cont,del.rel,nas,lat,s.g.,c.g.,voi,cor,ant,distr,high,low,back,round,tense
+p,voiceless bilabial plosive,sound,p,0,0,1,0,0,0,0,0,0,0,0,1,NA,0,0,0,0,NA
+b,voiced bilabial plosive,sound,b,0,0,1,0,0,0,0,0,0,1,0,1,?,0,0,0,0,NA
+t,voiceless alveolar plosive,sound,t,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,NA
+d,voiced alveolar plosive,sound,d,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,NA
+ʈ,voiceless retroflex plosive,sound,t<,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NA
+ɖ,voiced retroflex plosive,sound,d<,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,NA
+c,voiceless palatal plosive,sound,c,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,NA
+ɟ,voiced palatal plosive,sound,j=,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,NA
+k,voiceless velar plosive,sound,k,0,0,1,0,0,0,0,0,0,0,0,0,?,1,0,1,0,NA
+ɡ,voiced velar plosive,sound,g<,0,0,1,0,0,0,0,0,0,1,0,0,NA,1,0,1,0,NA
+q,voiceless uvular plosive,sound,q,0,0,1,0,0,0,0,0,0,0,0,0,NA,0,0,1,0,NA
+ɢ,voiced uvular plosive,sound,G=,0,0,1,0,0,0,0,0,0,1,0,0,NA,0,0,1,0,NA
+ʔ,voiceless glottal plosive,sound,?=,0,0,0,0,0,0,0,0,1,0,0,0,?,0,0,0,0,NA
+m,voiced bilabial nasal,sound,m,0,1,1,0,0,1,0,0,0,1,0,1,?,0,0,0,0,NA
+ɱ,voiced labiodental nasal,sound,m>,0,1,1,0,0,1,0,0,0,1,0,1,NA,0,0,0,0,NA
+n,voiced alveolar nasal,sound,n,0,1,1,0,0,1,0,0,0,1,1,1,?,0,0,0,0,NA
+ɳ,voiced retroflex nasal,sound,n<,0,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,NA
+ɲ,voiced palatal nasal,sound,n=,0,1,1,0,0,1,0,0,0,1,1,0,0,1,0,0,0,NA
+ŋ,voiced velar nasal,sound,n>,0,1,1,0,0,1,0,0,0,1,0,0,NA,1,0,1,0,NA
+ɴ,voiced uvular nasal,sound,N=,0,1,1,0,0,1,0,0,0,1,0,0,NA,0,0,1,0,NA
+ʙ,voiced bilabial trill,sound,B=,0,0,1,0,0,0,0,0,0,1,0,1,NA,0,0,0,0,NA
+r,voiced alveolar trill,sound,r,0,0,1,0,0,0,0,0,0,1,1,1,?,0,0,0,0,NA
+ʀ,voiced uvular trill,sound,R=,0,0,1,0,0,0,0,0,0,1,0,0,NA,0,0,1,0,NA
+ⱱ,voiced labiodental tap,sound,v<,0,0,1,0,0,0,0,0,0,1,0,1,NA,0,0,0,0,NA
+ɾ,voiced alveolar tap,sound,r>,0,0,1,0,0,0,0,0,0,1,1,1,?,0,0,0,0,NA
+ɽ,voiced retroflex tap,sound,r<,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,NA
+ɸ,voiceless bilabial fricative,sound,f=,0,0,1,1,0,0,0,0,0,0,0,1,NA,0,0,0,0,NA
+β,voiced bilabial fricative,sound,b=,0,0,1,1,0,0,0,0,0,1,0,1,NA,0,0,0,0,NA
+f,voiceless labiodental fricative,sound,f,0,0,1,1,0,0,0,0,0,0,0,1,NA,0,0,0,0,NA
+v,voiced labiodental fricative,sound,v,0,0,1,1,0,0,0,0,0,1,0,1,NA,0,0,0,0,NA
+θ,voiceless dental fricative,sound,t=,0,0,1,1,0,0,0,0,0,0,1,1,?,0,0,0,0,NA
+ð,voiced dental fricative,sound,d=,0,0,1,1,0,0,0,0,0,1,1,1,?,0,0,0,0,NA
+s,voiceless alveolar fricative,sound,s,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,NA
+z,voiced alveolar fricative,sound,z,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,NA
+ʃ,voiceless postalveolar fricative,sound,s=,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,NA
+ʒ,voiced postalveolar fricative,sound,z=,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,NA
+ʂ,voiceless retroflex fricative,sound,s<,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,NA
+ʐ,voiced retroflex fricative,sound,z<,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,NA
+ç,voiceless palatal fricative,sound,c=,0,0,1,1,0,0,0,0,0,0,1,0,?,1,0,0,0,NA
+ʝ,voiced palatal fricative,sound,j=,0,0,1,1,0,0,0,0,0,1,1,0,?,1,0,0,0,NA
+x,voiceless velar fricative,sound,x,0,0,1,1,0,0,0,0,0,0,0,0,NA,1,0,1,0,NA
+ɣ,voiced velar fricative,sound,g=,0,0,1,1,0,0,0,0,0,1,0,0,NA,1,0,1,0,NA
+χ,voiceless uvular fricative,sound,x=,0,0,1,1,0,0,0,0,0,0,0,0,NA,0,0,1,0,NA
+ʁ,voiced uvular fricative,sound,R>,0,0,1,1,0,0,0,0,0,1,0,0,NA,0,0,1,0,NA
+ħ,voiceless pharyngeal fricative,sound,h>,0,0,1,1,0,0,0,0,0,0,0,0,NA,0,1,1,0,NA
+ʕ,voiced pharyngeal fricative,sound,?<,0,0,1,1,0,0,0,0,0,0,0,0,NA,0,1,1,0,NA
+h,voiceless glottal fricative,sound,h,0,0,0,1,0,0,0,1,0,0,0,0,?,0,0,0,0,NA
+ɦ,voiced glottal fricative,sound,h<,0,0,0,1,0,0,0,1,0,0,0,0,NA,0,0,0,0,NA
+tʃ,voiceless postalveolar affricate,sound,ts=,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,NA
+dʒ,voiced postalveolar affricate,sound,dz=,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,NA
+ɬ,voiceless alveolar lateral fricative,sound,l=,0,0,1,1,0,0,1,0,0,0,1,1,?,0,0,0,0,NA
+ɮ,voiced alveolar lateral fricative,sound,l>,0,0,1,1,0,0,1,0,0,1,1,1,?,0,0,0,0,NA
+w,voiced labial-velar approximant,sound,w,0,1,0,1,0,0,0,0,0,1,0,0,NA,1,0,1,1,NA
+ʋ,voiced labiodental approximant,sound,v=,0,1,0,1,0,0,0,0,0,1,0,1,NA,0,0,0,0,NA
+ɹ,voiced alveolar approximant,sound,r=,0,1,0,1,0,0,0,0,0,1,1,?,?,0,0,0,0,NA
+ɻ,voiced retroflex approximant,sound,R<,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,NA
+j,voiced palatal approximant,sound,j,0,1,0,1,0,0,0,0,0,1,0,0,NA,1,0,0,0,NA
+ɰ,voiced velar approximant,sound,w>,0,1,0,1,0,0,0,0,0,1,0,0,NA,1,0,1,0,NA
+l,voiced alveolar lateral approximant,sound,l,0,1,1,1,0,0,1,0,0,1,1,1,?,0,0,0,0,NA
+ɭ,voiced retroflex lateral approximant,sound,l<,0,1,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0,NA
+ʎ,voiced palatal lateral approximant,sound,L<,0,1,1,1,0,0,1,0,0,1,1,0,?,1,0,0,0,NA
+ʟ,voiced velar lateral approximant,sound,L=,0,1,1,1,0,0,1,0,0,1,0,0,NA,1,0,1,0,NA
+i,high front unrounded tense vowel,sound,i,1,1,0,1,0,0,0,0,0,1,0,0,NA,1,0,0,0,1
+y,high front rounded tense vowel,sound,y,1,1,0,1,0,0,0,0,0,1,0,0,NA,1,0,0,1,1
+ɪ,high front unrounded lax vowel,sound,i=,1,1,0,1,0,0,0,0,0,1,0,0,NA,1,0,0,0,0
+ʏ,high front rounded lax vowel,sound,y=,1,1,0,1,0,0,0,0,0,1,0,0,NA,1,0,0,1,0
+ɨ,high central unrounded tense vowel,sound,I=,1,1,0,1,0,0,0,0,0,1,0,0,NA,1,0,1,0,1
+ʉ,high central rounded tense vowel,sound,U=,1,1,0,1,0,0,0,0,0,1,0,0,NA,1,0,1,1,1
+ɯ,high back unrounded tense vowel,sound,u=,1,1,0,1,0,0,0,0,0,1,0,0,NA,1,0,1,0,1
+u,high back rounded tense vowel,sound,u,1,1,0,1,0,0,0,0,0,1,0,0,NA,1,0,1,1,1
+ʊ,high back rounded lax vowel,sound,u<,1,1,0,1,0,0,0,0,0,1,0,0,NA,1,0,1,1,0
+e,mid front unrounded tense vowel,sound,e,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,0,0,0,1
+ø,mid front rounded tense vowel,sound,o>,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,0,0,1,1
+ɘ,mid central unrounded tense vowel,sound,E=,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,0,1,0,1
+ɵ,mid central rounded tense vowel,sound,o=,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,0,1,1,1
+ɤ,mid back unrounded tense vowel,sound,o>,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,0,1,0,1
+o,mid back rounded tense vowel,sound,o,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,0,1,1,1
+ə,mid central unrounded lax vowel,sound,e=,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,0,1,0,0
+ɛ,mid front unrounded lax vowel,sound,e<,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,0,0,0,0
+œ,mid front rounded lax vowel,sound,E<,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,0,0,1,0
+ɜ,mid central unrounded lax vowel,sound,e>,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,0,1,0,0
+ɞ,mid central rounded lax vowel,sound,o<,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,0,1,1,0
+ʌ,mid back unrounded lax vowel,sound,u>,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,0,1,0,0
+ɔ,mid back rounded lax vowel,sound,o<,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,0,1,1,0
+æ,low front unrounded vowel,sound,a<,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,1,0,0,NA
+ɐ,low central vowel,sound,a>,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,1,1,0,NA
+a,low back unrounded vowel,sound,a,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,1,1,0,NA
+ɶ,low back rounded vowel,sound,E>,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,1,1,1,NA
+ɑ,low back unrounded vowel,sound,a=,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,1,1,0,NA
+ɒ,low back rounded vowel,sound,o=,1,1,0,1,0,0,0,0,0,1,0,0,NA,0,1,1,1,NA
+ʘ,bilabial click,sound,p=,,,,,,,,,,,,,,,,,,
+ǀ,dental click,sound,!<,,,,,,,,,,,,,,,,,,
+ǃ,(post)alveolar click,sound,!,,,,,,,,,,,,,,,,,,
+ǂ,palatoalveolar click,sound,!=,,,,,,,,,,,,,,,,,,
+ǁ,alveolar lateral click,sound,!>,,,,,,,,,,,,,,,,,,
+ɓ,bilabial implosive,sound,b>,,,,,,,,,,,,,,,,,,
+ɗ,alveolar implosive,sound,d>,,,,,,,,,,,,,,,,,,
+ʄ,palatal implosive,sound,j>,,,,,,,,,,,,,,,,,,
+ɠ,velar implosive,sound,g>,,,,,,,,,,,,,,,,,,
+ʛ,uvular implosive,sound,G>,,,,,,,,,,,,,,,,,,
+◌ʼ,ejective,diacritic,]],,,,,,,,,1,,,,,,,,,
+ʍ,voiceless labial-velar fricative,sound,w=,,,,,,,,,,,,,,,,,,
+ɥ,voiced labial-palatal approximant,sound,h=,,,,,,,,,,,,,,,,,,
+ʜ,voiceless epiglottal fricative,sound,H=,,,,,,,,,,,,,,,,,,
+ʢ,voiced epiglottal fricative,sound,Q<,,,,,,,,,,,,,,,,,,
+ʡ,voiced epiglottal plosive,sound,Q=,,,,,,,,,,,,,,,,,,
+ɕ,voiceless alveolo-palatal fricative,sound,c<,,,,,,,,,,,,,,,,,,
+ʑ,voiceless alveolo-palatal fricative,sound,z>,,,,,,,,,,,,,,,,,,
+ɺ,voiced alveolar lateral flap,sound,L>,,,,,,,,,,,,,,,,,,
+ɧ,simultaneous ʃ and x,sound,H>,,,,,,,,,,,,,,,,,,
+ˈ,primary stress,suprasegmental,},,,,,,,,,,,,,,,,,,
+ˌ,secondary stress,suprasegmental,}},,,,,,,,,,,,,,,,,,
+◌ː,long,suprasegmental,:,,,,,,,,,,,,,,,,,,
+◌ˑ,half-long,suprasegmental,::,,,,,,,,,,,,,,,,,,
+◌̆,extra-short,suprasegmental,***,,,,,,,,,,,,,,,,,,
+|,minor (foot) group,suprasegmental,.<,,,,,,,,,,,,,,,,,,
+‖,major (intonation) group,suprasegmental,.=,,,,,,,,,,,,,,,,,,
+.,syllable break,suprasegmental,.,,,,,,,,,,,,,,,,,,
+‿,linking (absence of a break),suprasegmental,#=,,,,,,,,,,,,,,,,,,
+◌̋,extra high tone,tone,@4,,,,,,,,,,,,,,,,,,
+˥,extra high tone,tone,#4,,,,,,,,,,,,,,,,,,
+◌́,high tone,tone,@3,,,,,,,,,,,,,,,,,,
+˦,high tone,tone,#3,,,,,,,,,,,,,,,,,,
+◌̄,mid tone,tone,@2,,,,,,,,,,,,,,,,,,
+˧,mid tone,tone,#2,,,,,,,,,,,,,,,,,,
+◌̀,low tone,tone,@1,,,,,,,,,,,,,,,,,,
+˨,low tone,tone,#1,,,,,,,,,,,,,,,,,,
+◌̏,extra low tone,tone,@0,,,,,,,,,,,,,,,,,,
+˩,extra low tone,tone,#0,,,,,,,,,,,,,,,,,,
+ꜜ,downstep,tone,#<,,,,,,,,,,,,,,,,,,
+ꜛ,upstep,tone,#>,,,,,,,,,,,,,,,,,,
+◌̌,rising tone,tone,@13,,,,,,,,,,,,,,,,,,
+˩˥,rising tone,tone,#04,,,,,,,,,,,,,,,,,,
+◌̂,falling tone,tone,@31,,,,,,,,,,,,,,,,,,
+˥˩,falling tone,tone,#40,,,,,,,,,,,,,,,,,,
+◌᷄,high rising tone,tone,@23,,,,,,,,,,,,,,,,,,
+˧˥,high rising tone,tone,#24,,,,,,,,,,,,,,,,,,
+◌᷅,low rising tone,tone,@12,,,,,,,,,,,,,,,,,,
+˨˧,low rising tone,tone,#12,,,,,,,,,,,,,,,,,,
+◌᷈,rising-falling tone,tone,@131,,,,,,,,,,,,,,,,,,
+˨˥˨,rising-falling tone,tone,#141,,,,,,,,,,,,,,,,,,
+↗,global rise,tone,#>>,,,,,,,,,,,,,,,,,,
+↘,global fall,tone,#<<,,,,,,,,,,,,,,,,,,
+◌̥,voiceless,diacritic,%,,,,,,,,,,0,,,,,,,,
+◌̊,voiceless,diacritic,@,,,,,,,,,,0,,,,,,,,
+◌̬,voiced,diacritic,%%,,,,,,,,,,1,,,,,,,,
+◌̤,breathy voiced,diacritic,%%%,,,,,,,,1,,,,,,,,,,
+◌̰,creaky voiced,diacritic,$$$,,,,,,,,,1,,,,,,,,,
+◌ʰ,aspirated,diacritic,h^,,,,,,,,,,,,,,,,,,
+◌̹,more rounded,diacritic,++++,,,,,,,,,,,,,,,,,,
+◌̜,less rounded,diacritic,____,,,,,,,,,,,,,,,,,,
+◌̟,advanced,diacritic,+,,,,,,,,,,,,,,,,,,
+◌̠,retracted,diacritic,_,,,,,,,,,,,,,,,,,,
+◌̈,centralized,diacritic,*,,,,,,,,,,,,,,,,,,
+◌̽,mid-centralized,diacritic,**,,,,,,,,,,,,,,,,,,
+◌̩,syllabic,diacritic,$,1,,,,,,,,,,,,,,,,,
+◌̯,non-syllabic,diacritic,$$,0,,,,,,,,,,,,,,,,,
+◌˞,rhoticity,diacritic,[[[,,,,,,,,,,,,,,,,,,
+◌̼,linguolabial,diacritic,{{{{,,,,,,,,,,,,,,,,,,
+◌ʷ,labialized,diacritic,w^,,,,,,,,,,,,,,1,,1,1,
+◌ʲ,palatalized,diacritic,j^,,,,,,,,,,,,,,,,,,
+◌ˠ,velarized,diacritic,g=^,,,,,,,,,,,,,,,,,,
+◌ˤ,pharyngealized,diacritic,?<^,,,,,,,,,,,,,,,,,,
+ɫ,velarized or pharyngealized,diacritic,l~~,,,,,,,,,,,,,,,,,,
+◌̪,dental,diacritic,{,,,,,,,,,,,,,,,,,,
+◌̺,apical,diacritic,{{,,,,,,,,,,,,,,,,,,
+◌̻,laminal,diacritic,{{{,,,,,,,,,,,,,,,,,,
+◌̃,nasalized,diacritic,~,,,,,,1,,,,,,,,,,,,
+◌ⁿ,nasal release,diacritic,n^,,,,,,,,,,,,,,,,,,
+◌ˡ,lateral release,diacritic,l^,,,,,,,,,,,,,,,,,,
+◌̚,no audible release,diacritic,]]],,,,,,,,,,,,,,,,,,
+◌̝,raised,diacritic,++,,,,,,,,,,,,,,,,,,
+◌̞,lowered,diacritic,__,,,,,,,,,,,,,,,,,,
+◌̘,advanced tongue root,diacritic,+++,,,,,,,,,,,,,,,,,,
+◌̙,retracted tongue root,diacritic,___,,,,,,,,,,,,,,,,,,
+◌͡◌,double articulation / affricate,suprasegmental,#&,,,,,,,,,,,,,,,,,,
+◌͜◌,double articulation / affricate,suprasegmental,@&,,,,,,,,,,,,,,,,,,

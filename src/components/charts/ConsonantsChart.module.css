@@ -1,0 +1,32 @@
+.voiced.voiced {
+  border-left: 0;
+}
+
+.voiceless.voiceless {
+  border-right: 0;
+}
+
+.merge.merge {
+  border-left: 0;
+  border-right: 0;
+}
+
+.impossible {
+  background-color: lightgray;
+}
+
+.consonants {
+  display: inline-block;
+}
+
+.consonants table tbody th {
+  border-right: 2px solid black;
+}
+
+.consonants table thead td {
+  border: 2px solid black;
+}
+
+.consonants p {
+  text-align: center;
+}
