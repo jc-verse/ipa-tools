@@ -40,13 +40,13 @@ export default function VowelsChart(): JSX.Element {
             zIndex: -1,
           }}>
           <path
-            d="M 73,43 l 33,116
-               M 127,43 l 6.6,51 m 1.55,12 l 3.36,26 m 1.55,12 l 1.81,14
-               M 181,43 l 0,116
-               M 89,43 h 23 m 33,0 h 21
-               M 100,82 h 16 m 33,0 h 17
-               M 110,120 h 13 m 31,0 h 13
-               M 123,158 h 44"
+            d={`M 73,43 l 33,116
+                M 127,43 l 6.6,51 m 1.55,12 l 3.36,26 m 1.55,12 l 1.81,14
+                M 181,43 l 0,116
+                M 89,43 h 23 m 33,0 h 21
+                M 100,82 h 16 m 33,0 h 17
+                M 110,120 h 13 m 31,0 h 13
+                M 123,158 h 44`.replace(/\n +/g, " ")}
             stroke="gray"
             fill="none"
             strokeWidth={0.5}
