@@ -19,11 +19,11 @@
   display: inline-block;
 }
 
-.consonants table tbody th {
+.consonants tbody th {
   border-right: 2px solid black;
 }
 
-.consonants table thead td {
+.consonants thead td {
   border: 2px solid black;
 }
 
