@@ -10,6 +10,7 @@ laryngeals
 linguolabial
 obstruents
 palatoalveolar
+peaceiris
 pharyngealized
 pharyngeals
 pnpm
