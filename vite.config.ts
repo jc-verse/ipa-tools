@@ -7,5 +7,6 @@ export default defineConfig({
   server: {
     port: 5000,
   },
+  base: "/ipa-tools/",
   plugins: [react(), ssr({ prerender: true })],
 });
